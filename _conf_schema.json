@@ -1,0 +1,26 @@
+{
+    "image1Url": {
+        "description": "1的图床地址",
+        "type": "string"
+    },
+    "image2Url": {
+        "description": "2的图床地址",
+        "type": "string"
+    },
+    "image3Url": {
+        "description": "3的图床地址",
+        "type": "string"
+    },
+    "image4Url": {
+        "description": "4的图床地址",
+        "type": "string"
+    },
+    "image5Url": {
+        "description": "5的图床地址",
+        "type": "string"
+    },
+    "image6Url": {
+        "description": "6的图床地址",
+        "type": "string"
+    }
+}
